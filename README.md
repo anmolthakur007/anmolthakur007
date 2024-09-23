@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anmolthakur007
 - 👀 I’m interested in open source
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me anmol.thakur70@gmail.com
 
